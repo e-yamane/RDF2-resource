@@ -1,6 +1,7 @@
 import java.util.{MissingResourceException, Locale}
 import jp.rough_diamond.commons.di.DIContainerTestingHelper
 import jp.rough_diamond.commons.di.DIContainerTestingHelper.{init, attach, detach}
+import jp.rough_diamond.commons.resource.{ResourceManager, LocaleController}
 import org.scalatest.matchers.ShouldMatchers
 import org.scalatest.{BeforeAndAfter, FunSpec}
 

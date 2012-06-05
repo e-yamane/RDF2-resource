@@ -1,4 +1,5 @@
 import java.util.Locale
+import jp.rough_diamond.commons.resource.LocaleControllerByThreadLocal
 import org.scalatest.FunSpec
 import org.scalatest.matchers.ShouldMatchers
 

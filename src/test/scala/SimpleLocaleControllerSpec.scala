@@ -1,4 +1,5 @@
 import java.util.Locale
+import jp.rough_diamond.commons.resource.SimpleLocaleController
 import org.scalatest.FunSpec
 
 /**

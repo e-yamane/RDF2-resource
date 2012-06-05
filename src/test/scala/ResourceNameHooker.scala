@@ -1,4 +1,5 @@
 import jp.rough_diamond.commons.di.DIContainerTestingHelper.DIHook
+import jp.rough_diamond.commons.resource.{ResourceManager, LocaleControllerByThreadLocal, LocaleController}
 
 /**
  * Created with IntelliJ IDEA.

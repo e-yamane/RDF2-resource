@@ -1,4 +1,5 @@
 import jp.rough_diamond.commons.di.DIContainerTestingHelper._
+import jp.rough_diamond.commons.resource.{Messages, Message}
 import org.scalatest.matchers.ShouldMatchers
 import org.scalatest.{BeforeAndAfter, FunSpec}
 

@@ -2,6 +2,7 @@ import java.util.Locale
 import javax.servlet.http.HttpServletRequest
 import javax.servlet.{ServletResponse, ServletRequest, FilterChain}
 import jp.rough_diamond.commons.di.{DIContainerTestingHelper, AbstractDIContainer, DIContainerFactory}
+import jp.rough_diamond.commons.resource.{SimpleLocaleController, LocaleFilter, LocaleControllerByThreadLocal, LocaleController}
 import org.mockito.Mockito
 import org.scalatest.FunSpec
 import org.scalatest.matchers.ShouldMatchers
